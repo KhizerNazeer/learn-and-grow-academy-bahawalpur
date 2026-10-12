@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khizernazeer.github.io/learn-and-grow/sitemap.xml
