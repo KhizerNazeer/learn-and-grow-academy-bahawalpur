@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://khizernazeer.github.io/learn-and-grow/sitemap.xml
+Sitemap: https://khizernazeer.github.io/learn-and-grow-academy-bahawalpur/sitemap.xml
